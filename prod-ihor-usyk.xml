@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="iusyk/meta-xt-prod-devel" path="meta-xt-ihor-usyk" upstream="ihor_prod" revision="ihor_prod" />
+    <project name="iusyk/meta-xt-ihor-usyk" path="meta-xt-ihor-usyk" upstream="ihor_prod" revision="ihor_prod" />
     <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
     <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
 </manifest>
