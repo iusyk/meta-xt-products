@@ -5,6 +5,6 @@
     <default remote="github" sync-j="10" sync-c="true" />
 
     <project name="iusyk/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="cleaning_rcar_prop_graph" revision="cleaning_rcar_prop_graph" />
-    <project name="iusyk/meta-xt-images" path="meta-xt-images" upstream="cleaning_eglext_patch" revision="cleaning_eglext_patch" />
+    <project name="iusyk/meta-xt-images" path="meta-xt-images" upstream="cleaning_rcar_prop_graph" revision="cleaning_rcar_prop_graph" />
     <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
 </manifest>
